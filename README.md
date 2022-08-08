@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Blackmile/project4-ml/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Blackmile/project4-ml/tree/main)
 
 ## Project Overview
 
