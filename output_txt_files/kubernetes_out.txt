@@ -2,7 +2,7 @@ NAME                           READY   STATUS    RESTARTS   AGE
 project4-ml-65ccd8d5dc-mts67   1/1     Running   0          2m20s
 Forwarding from 0.0.0.0:8000 -> 80
 Handling connection for 8000
-Port: 8080
+Port: 8000
 {
   "prediction": [
     20.35373177134412
